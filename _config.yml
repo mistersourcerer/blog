@@ -1,0 +1,12 @@
+title: Ricardo Valeriano [on the interwebz]
+tagline: An Average Boring Dev Blog
+baseurl: ""
+paginate: 1
+
+author:
+  name: Ricardo Valeriano
+
+gems:
+  - jekyll-paginate
+
+markdown: kramdown
