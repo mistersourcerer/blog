@@ -12,39 +12,47 @@ categories:
 From time to time someone says me
 that my code reviews are a little bit "different".
 Being the very self-confident person that I am,
-I started to ask which could I do to make them better.
+I started to ask myself (and other people)
+which could I do to make them better.
 For my huge surprise,
-the "different" in this scenario
-was a very good thing.
+the "difference" at that time was a very good thing.
 So I'll try to break down into steps
-the though process
-that make me review code
+the though process that make me review code
 the way I do nowadays.
 
 ### Read the code (_and not "just" the diff_ )
 
-At least for me is very tempting
-to just glance my eyes over the _diff_.
-What I'm trying to say here is that
-I normally avoid this.
-I try to *really*® read the change
+At least for me is very tempting to just glance my eyes over the _diff_.
+And I normally try my best to avoid this urge.
+I try to *really*® read the changes
 and understanding the motivations
 before make up any type of conclusions.
 
-It's very prone to make the wrong ones (conclusions)
-without see the whole picture.
-Maybe that piece of ~~shit~~ code that
-appears to be irremediably moronic
-is there due to some strange historical motive.
-I'm not saying that it shouldn't be pointed,
-but maybe even the way we point it
-will change dramatically knowing why it's there.
+I think I'm very prone
+to make the wrong ones (conclusions) without see the whole picture.
+Maybe that piece of ~~shit~~ code
+that appears to be irremediably moronic
+is there due to some strange historical reasons,
+and the first "code reading" that I do aim to do just that:
+get me in a position where the code changes
+are in a context that I can "see".
 
 So *really*® read the PR before make any comments
-is something that works very well for me
-in the sense that it sometimes changes completely
-my understanding about why I'll talk about.
+is something that works very well for me (I guess).
 
+### Enphasize the goods before bashing the bads
+
+As alien as it may appear
+the main concern of the code reviewer
+should be to emphasize the good stuffs,
+so they keep poping up.
+
+Hand by hand with the previous topic,
+it's easy to just point fingers.
+But the objective of the code review should be,
+besides of block "wrong" things,
+to make sure that the good ones keep coming.
+So we shall praise them goodies.
 
 ### Reviews are historical registers
 
@@ -56,12 +64,6 @@ This also should be kept in mind
 while creating the pull request,
 but this is subject to a whole new blog post.
 
-### Enphasize the goods before bashing the bads
-
-As alien as it may appear
-the main concern of the code reviewer
-should be to emphasize the good stuffs,
-so they keep poping up.
 
 #### Now, bash the bads as hell
 
