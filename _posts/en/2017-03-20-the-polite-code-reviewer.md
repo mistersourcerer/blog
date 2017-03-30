@@ -11,29 +11,29 @@ categories:
 
 ### TL;DR
 
- - Code Review is an opportunity educate,
-but to learn also, and at the same rate.
+ - Code Review is an opportunity to educate
+and learn at the same rate.
  - Don't comment before understanding the reasoning behind the changes.
  - Spend the same energy recognizing good stuff
 (encouraging and/or praising it)
 that you apply to find bad stuff.
- - Discussions in code reviews can and should
-a learning material (and serve for future references).
- - Point clearly and with (code) counter examples
-everything that is not that good.
- - Recognize the effort that the coleagues employed
+ - Discussions in code reviews can be learning material
+(and they serve for future references).
+ - Be very specific on what is not that good and
+use code examples to make your point.
+ - Recognize the effort that the author employed
 on trying to make the best they can.
 
 ## What is this post about, guyz!? OMG!
 
-Lately some work colleagues have said to me
+Lately some work colleagues told me
 that my code reviews are a little bit "different".
 Being the very self-confident person that I am,
 I started to ask myself (and other people)
 what could I do to make them better.
 Then I discovered,
 much to my surprise,
-that the "different" in this case is actually a good thing.
+that the "difference" in this case is actually a good thing.
 
 I'll try to break down into steps
 the thought process that make me review code
@@ -41,12 +41,12 @@ the way I do nowadays.
 
 ### Read the code (_and not "just" the diff_ )
 
-At least for me is very tempting to just glance my eyes over the _diff_.
+At least for me it's very tempting to just glance my eyes over the _diff_.
 And I normally try my best to avoid this urge
 and *really*® read the changes.
 
-This is my way of understand the context for the changes,
-and I think this is pre-condition
+This is how I understand the context for the changes,
+and I think this is a pre-condition
 to make up any type of conclusions.
 
 #### The objective here is to bring up the motivations
@@ -64,7 +64,7 @@ aim to do just that:
 get me in a position where the code changes
 are wrapped in a context that fits in my mind.
 
-So to *really*® read the PR before make any comments
+So to *really*® read the PR before post any comments
 is something that works very well for me (I guess).
 
 ### Emphasize the goods before bashing the bads
@@ -73,7 +73,7 @@ As alien as that concept may appear I really (want to) believe that
 the main concern of the code reviewer is to emphasize the good stuffs.
 This way those can find the atmosphere to they keep poping up.
 
-IMHO is much more effective to avoid bad coding from "happen"
+IMHO it's much more effective to avoid bad coding from "happening"
 than just complain when it happens.
 And no worries or false hopes:
 
@@ -83,7 +83,7 @@ But my advice is: just relax
 and focus the review on appreciation of the good stuffs.
 Again, since this is a difficult thing for us programmers
 (should I dare to say humans?),
-here are some examples that I learnt from time
+here are some examples that Time taught me
 and that I tend to mix, match and use on my reviews:
 
  - Nice idea in here! I didn't know this was possible.
@@ -100,7 +100,7 @@ Slow claps is one of my all time favorites.
 
 Githubz and similars offer a great deal of tooling
 to make the code review comments/messages look pretty and organized.
-And I find myself more and more refering to "old" Pull Requests.
+And I find myself more and more referring to "old" Pull Requests.
 Majority of the times to remember the suggestions
 that arrived on solving some specific problem,
 or changing some specific type of code.
@@ -156,7 +156,7 @@ and all sorts of _h1_, _h2_ and _h3_ on my markdowns
 to make my comments very readable.
 Well... at least I try, ok!? 😤
 
-Other tip is to enhance the examples
+Another tip is to enhance the examples
 with references to older experiences,
 other people on the interwebz that the team respect
 (blog posts, books, etc).
@@ -169,7 +169,7 @@ When I **feel** that something is wrong
 but I can't provide a clear example on how to do it better,
 I try to call for a conversation.
 You know? That old thing when you
-exchanges some words? Face to face?
+exchange some words? Face to face?
 Probably some ideas will pop up,
 but I really avoid to write in the _PR_ those foggy brain farts💨.
 
@@ -194,9 +194,31 @@ that is working hard on some feature.
 And in the majority of the cases
 I discover really nice stuff when I do a rapid test in the terminal.
 You know? I'm talking about those
-"`#third` method is on _Active Support_ or _Ruby_ itself " type of questions.
+"`#third` method is on _Active Support_ or _Ruby_ itself "
+type of questions.
+
+## Now go there and just enjoy your day
+
+We are all here for the fun and the learnings.
+So hang around with your peers allways you can,
+talk about what you can do better
+to improve your interactions.
+
+Let's have some fun on our working lifes.
+
+xoxo
+
+## Thank you very much. REALLY! BIG THANKS
+
+This post would be even worst
+without the carefull early reading, revision
+and polite point fingers from
+
+ - [@hosseintoussi](https://github.com/hosseintoussi)
+
+You are the man, bruv! 💙
 
 ## References:
 
- + [github]()
- + [brown bag sessions]()
+ + [github](http://github.com)
+ + [brown bag sessions](https://www.quora.com/What-is-a-brown-bag-session)
