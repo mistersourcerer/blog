@@ -67,7 +67,7 @@ are wrapped in a context that fits in my mind.
 So to *really*® read the PR before make any comments
 is something that works very well for me (I guess).
 
-### Enphasize the goods before bashing the bads
+### Emphasize the goods before bashing the bads
 
 As alien as that concept may appear I really (want to) believe that
 the main concern of the code reviewer is to emphasize the good stuffs.
