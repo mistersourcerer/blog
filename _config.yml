@@ -5,6 +5,8 @@ paginate: 1
 
 author:
   name: Ricardo Valeriano
+  url: https://www.youtube.com/c/FunOnCoding
+  twitter: sr_valeriano
 
 gems:
   - jekyll-paginate
