@@ -23,7 +23,7 @@ use code examples to make your point.
  - Recognize the effort that the author employed
 on trying to make the best they can.
 
-![Buddha says: try to not be an asshat](/blog/images/polite-code-reviewer/buddha-try-to-not-be-an-asshat.jpg){: .center-image }
+![Buddha says: try to not be an asshat](/images/polite-code-reviewer/buddha-try-to-not-be-an-asshat.jpg){: .center-image }
 
 ## What is this post about, guyz!? OMG!
 
@@ -74,7 +74,7 @@ As alien as that concept may appear I really (want to) believe that
 the main concern of the code reviewer is to emphasize the good stuffs.
 This way those can find the atmosphere to they keep poping up.
 
-![WOOOW! Just blewed me away. Wink!](/blog/images/polite-code-reviewer/wow-wink.gif){: .center-image }
+![WOOOW! Just blewed me away. Wink!](/images/polite-code-reviewer/wow-wink.gif){: .center-image }
 
 IMHO it's much more effective to avoid bad coding from "happening"
 than just complain when it happens.
@@ -99,7 +99,7 @@ And of course, I hereby grant the permission
 for you to use any kind of memes and animated gifs in this phase.
 Slow claps is one of my all time favorites.
 
-![Here some slow claps: you sure deserve it!](/blog/images/polite-code-reviewer/slow-claps.gif){: .center-image }
+![Here some slow claps: you sure deserve it!](/images/polite-code-reviewer/slow-claps.gif){: .center-image }
 
 ### Reviews are historical registers
 
@@ -202,7 +202,7 @@ You know? I'm talking about those
 "`#third` method is on _Active Support_ or _Ruby_ itself "
 type of questions.
 
-![It was TOTALLY worth it. Even with all the punchs directly at the nose.](/blog/images/polite-code-reviewer/worth-it.jpg){: .center-image }
+![It was TOTALLY worth it. Even with all the punchs directly at the nose.](/images/polite-code-reviewer/worth-it.jpg){: .center-image }
 
 ## Now go there and just enjoy your day
 
