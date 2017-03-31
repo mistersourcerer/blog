@@ -1,13 +1,11 @@
 ---
-layout: default
+layout: post
 title:  "The Polite Code Reviewer"
 date:   2017-03-20 17:50:00
 categories:
   - en
   - working-with-others
 ---
-
-## The Polite Code Reviewer
 
 ### TL;DR
 
