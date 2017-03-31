@@ -2,6 +2,7 @@
 layout: post
 title:  "The Polite Code Reviewer"
 date:   2017-03-20 17:50:00
+excerpt: Code Review is an opportunity to educate and learn at the same rate.
 categories:
   - en
   - working-with-others
