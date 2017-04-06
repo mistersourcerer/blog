@@ -1,7 +1,8 @@
 title: Ricardo Valeriano [on the interwebz]
 tagline: An Average Boring Dev Blog
-baseurl: "https://ricardovaleriano.github.io/blog"
+url: "https://blog.ricardovaleriano.com"
 paginate: 1
+description: "An Average Boring Dev Blog"
 
 author:
   name: Ricardo Valeriano
