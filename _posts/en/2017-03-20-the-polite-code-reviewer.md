@@ -4,7 +4,7 @@ title:  "The Polite Code Reviewer"
 date:   2017-03-20 17:50:00
 excerpt: Code Review is an opportunity to educate and learn at the same rate.
 description: "Code Review: an opportunity to educate and learn at the same rate."
-image: /images/polite-code-reviewer/slow-claps.gif
+image: /images/polite-code-reviewer/buddha-try-to-not-be-an-asshat.jpg
 categories:
   - en
   - working-with-others
