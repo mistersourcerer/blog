@@ -191,29 +191,28 @@ Provavelmente algumas ideias vão surgir durante a conversa,
 mas eu prefiro não escrever nada no _PR_ se sinto que
 estou apenas com "ar quente" na cabeça💨.
 
-##### When you "THINK" something is wrong, just test it first
+##### Se você "só ACHA" que algo está errado, testa primeiro, faz favor.
 
-I'm always watching myself to punch me in the right ear
-before I write something like:
+Estou sempre me vigiando
+para me dar aquele soco bem na orelha direita
+antes de escrever alguma coisa como:
 
-_"I guess this isn't really necessary, ya know?
-But I'm, like, not sure."_
+_"Eu acho que isso não precisa estar aqui, tá ligado?
+Mas tipo, eu não tenho certeza."_
 
-The person that wrote the code spent some time on it,
-thought about some abstractions to make it cool,
-wrote tests/specs to guarantee that it's working...
-So I think it's just lame to "just guess"
-that something in the PR isn't the best/right way to go.
-And more than that,
-kinda delegate all the job to prove or disprove
-something to the same person
-that is working hard on some feature.
+Quem escreveu o código empenhou tempo na coisa,
+pensou em abstrações para tornar a parada massa,
+escreveu tests/specs para garantir que tudo está funcionando...
+Então é bem zoado chegar lá e "só achar"
+que tem alguma coisa no _PR_ que não foi feita do melhor jeito possível.
+Ainda pior,
+meio que delegar o trampo de provar ou refutar a hipótese
+para a própria pessoa que trabalhou duro naquela feature.
 
-And in the majority of the cases
-I discover really nice stuff when I do a rapid test in the terminal.
-You know? I'm talking about those
-"`#third` method is on _Active Support_ or _Ruby_ itself "
-type of questions.
+E convenhamos que na maioria das vezes
+eu descubro coisas bacanas quando eu vou ali rapidinho no terminal e testo.
+Manja? Aquele tipo de dúvida
+"`#third` é do _Active Support_ ou do _Ruby_ mesmo?".
 
 ![It was TOTALLY worth it. Even with all the punchs directly at the nose.](/images/polite-code-reviewer/worth-it.jpg){: .center-image }
 
