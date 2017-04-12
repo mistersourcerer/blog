@@ -155,39 +155,41 @@ Trazer a tona os problemas no PR
  - Estamos entendendo errado alguma lógica de negócio?
  - Alguém seria muito beneficiado por uma aulinha de design OO?
 
-#### Never say that something is plain ugly
+#### Nunca diga simplesmente que o código está feio
 
-First because it's just wrong.
-Don't be an ~~asshat~~ ~~douche~~ bad person.
-But also because this is very, VERY subjective.
+Primeiro porque isso não existe.
+Não seja um ~~idiota~~ desagradável.
+Mas também porque isso é COMPLETAMENTE subjetivo.
 
-_The prettyness is in the viewers eyes._
+_A beleza está nos olhos de quem vê._
 
-So I try my best to be VERY objective about it.
+Eu sempre tento meu melhor para ser objetivo em relação a isso.
 
-##### If something is wrong, I try to show why and how
+##### Quando algo está errado, eu tento mostrar porque e como
 
-I use the miracle of code syntax highlighting
-and all sorts of _h1_, _h2_ and _h3_ on my markdowns
-to make my comments very readable.
-Well... at least I try, ok!? 😤
+Faço bastante uso do milagre do syntax highlighting
+e todo o pacote de _h1_, _h2_ e _h3_ nos meus markdowns
+para tornar meus comentários legíveis.
+Bom... EU TENTO, tá bom!? 😤
 
-Another tip is to enhance the examples
-with references to older experiences,
-other people on the interwebz that the team respect
-(blog posts, books, etc).
+Outra dica é enriquecer os exemplos de código
+com referências a outras experiências e
+outras pessoas nas internetz que o time respeita
+(blog posts, livros, etc).
 
-_Try and prove your point.
-Do some effort.
-Spent some time on it._
+_Prove o seu ponto.
+Se empenhe nisso.
+Não economize tempo aqui._
 
-When I **feel** that something is wrong
-but I can't provide a clear example on how to do it better,
-I try to call for a conversation.
-You know? That old thing when you
-exchange some words? Face to face?
-Probably some ideas will pop up,
-but I really avoid to write in the _PR_ those foggy brain farts💨.
+Quando eu **sinto** que algo está errado
+mas eu não consigo pensar um exemplo claro de como fazer melhor,
+eu prefiro chamar para um papo.
+Manja? Aquele bagulho antiquado
+feito de trocar algumas palavras?
+Cara a cara?
+Provavelmente algumas ideias vão surgir durante a conversa,
+mas eu prefiro não escrever nada no _PR_ se sinto que
+estou apenas com "ar quente" na cabeça💨.
 
 ##### When you "THINK" something is wrong, just test it first
 
