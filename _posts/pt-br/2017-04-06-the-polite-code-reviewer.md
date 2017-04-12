@@ -44,15 +44,15 @@ Eu vou tentar mostrar os passos que sigo
 e também processo mental
 que tenho usado em meus code reviews ultimamente.
 
-### Read the code (_and not "just" the diff_ )
+### Leia o código (DUH! _e não "apenas o diff"_ )
 
-At least for me it's very tempting to just glance my eyes over the _diff_.
-And I normally try my best to avoid this urge
-and *really*® read the changes.
+Eu acho muito tentador só dar aquela passada de zóio 👀 no _diff_.
+Mas me esforço para resistir a essa vontadinha
+e *de fato*® ler as alterações.
 
-This is how I understand the context for the changes,
-and I think this is a pre-condition
-to make up any type of conclusions.
+É assim que eu entendo o contexto geral das mudanças,
+e eu acho que isso é pré condição
+para tirar qualquer tipo de conclusão.
 
 #### The objective here is to bring up the motivations
 
