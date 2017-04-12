@@ -31,18 +31,18 @@ em fazer o melhor que ele pôde.
 
 ## Que negócio é esse aqui, bicho!? OMG!
 
-Lately some work colleagues told me
-that my code reviews are a little bit "different".
-Being the very self-confident person that I am,
-I started to ask myself (and other people)
-what could I do to make them better.
-Then I discovered,
-much to my surprise,
-that the "difference" in this case is actually a good thing.
+Seguinte... tem um tempinho que alguns colegas vem me dizendo
+que meus code reviews são um pouco "diferentes".
+Sendo o rei da auto-estima que sou,
+Comecei a me perguntar (e a perguntar para todo mundo)
+o que eu estava fazendo errado, então.
+Aí, para minha imensa surpresa,
+descobrir que o "diferente" nesse caso
+era na verdade algo batuta.
 
-I'll try to break down into steps
-the thought process that make me review code
-the way I do nowadays.
+Eu vou tentar mostrar os passos que sigo
+e também processo mental
+que tenho usado em meus code reviews ultimamente.
 
 ### Read the code (_and not "just" the diff_ )
 
