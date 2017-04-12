@@ -2,8 +2,8 @@
 layout: post
 title:  "O Code Review Maroto"
 date:   2017-04-06 14:49:00
-excerpt: Code Review é uma excelente oportunidade para ensinar e aprender na
-mesma proporção.
+excerpt: "Code Review é uma excelente oportunidade para ensinar e aprender na
+mesma proporção."
 description: "Code Review: uma excelente oportunidade para ensinar e aprender na
 mesma proporção."
 image: /images/polite-code-reviewer/buddha-try-to-not-be-an-asshat.jpg
@@ -14,7 +14,7 @@ categories:
 
 ### Essa é uma tradução
 
-O ![post original](blog.ricardovaleriano.com/en/working-with-others/2017/03/20/the-polite-code-reviewer.html) está em inglês, ![confira lá](blog.ricardovaleriano.com/en/working-with-others/2017/03/20/the-polite-code-reviewer.html).
+O [post original](blog.ricardovaleriano.com/en/working-with-others/2017/03/20/the-polite-code-reviewer.html) está em inglês, [confira lá](blog.ricardovaleriano.com/en/working-with-others/2017/03/20/the-polite-code-reviewer.html).
 
 ### TL;DR
 
@@ -76,7 +76,7 @@ estão em um contexto dentro da minha cachola.
 Então *de fato*® ler o _PR_ antes de comentar
 é algo que **works for me** (eu acho).
 
-![Obama drinking beer approves this!](/images/polite-code-reviewer/obama-thumbs-up.jpg){: .center-image }
+![Obama drinking beer approves this](/images/polite-code-reviewer/obama-thumbs-up.jpg){: .center-image }
 
 ### Enaltecer o bom antes de bater no ruim
 
