@@ -128,32 +128,32 @@ Também acredito que é legal tratar
 os Pull Requests em si da mesma forma,
 mas isso a assunto para _todo um novo blog post_™.
 
-### Now, it's that time...
+### Bom... chegou aquela hora.
 
-I try my best to point everything
-that is not ok with the Pull Request.
-But I believe this should be done in the
-most polite way that I can.
-And let's face it already: I'm a sir.
+Eu realmente me esforço em encontrar
+tudo que eu acho que não está 100% em um Pull Request.
+Mas acredito que isso tem que ser feito
+da maneira mais polida possível.
+E vamos combinar, né? Eu sou um gentleman.
 
-An important thing to keep in mind
-(before start to point the things that should be different)
-is:
+Uma coisa que acho muito importante lembrar
+(antes de apontar as coisas que podem ser diferentes)
+é:
 
-#### _bad code **is going "to happen"**_, remember?
+#### _código ruim **vai "aconter"**_, lembra?
 
-And this is totally fine.
-We make mistakes all the bloody time.
-Well, at least I do.
-MAYBE I'M A MORON, WHO KNOWS!?
-But seriously, if we don't make booboos
-we are not trying anything new/better, right?
+E quer saber? Tudo bem!
+A gente erra o tempo todo.
+Bom, pelo menos eu erro.
+TALVEZ EU SEJA UMA MULA, QUEM É QUE SABE!?
+Mas sem zoeira, se não estamos errando
+provavelmente é porque não estamos tentando nada novo/melhor, certo?
 
-To point those problems is
-to create opportunities to assess why this is happening:
- - Something is unclear about our standards?
- - There is some business logic misconceptions?
- - Someone could enjoy some brown bag sessions on OO design?
+Trazer a tona os problemas no PR
+é criar oportunidades para enteder porque eles estão acontecendo:
+ - Tem algo nublado sobre nossos padrões?
+ - Estamos entendendo errado alguma lógica de negócio?
+ - Alguém seria muito beneficiado por uma aulinha de design OO?
 
 #### Never say that something is plain ugly
 
