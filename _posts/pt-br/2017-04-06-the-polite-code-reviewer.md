@@ -54,23 +54,25 @@ e *de fato*® ler as alterações.
 e eu acho que isso é pré condição
 para tirar qualquer tipo de conclusão.
 
-#### The objective here is to bring up the motivations
+#### O objetivo nessa parte é esclarecer as motivações
 
- - Why something is writen in the way it is?
- - What was the thought process the developer used here?
- - Can I learn something from it?
-  (not just technically but even about the business?)
+ - Porque algo foi escrito desse jeito?
+ - Qual era a ideia do desenvolvedor nessa parte?
+ - Posso aprender algo aqui?
+   (não só tecnicamente, mas até mesmo sobre o negócio?)
 
-Maybe that piece of ~~shit~~ code
-that appears to be irremediably moronic
-is in there due to some strange historical reasons.
-And the first "code reading" that I do
-aim to do just that:
-get me in a position where the code changes
-are wrapped in a context that fits in my mind.
+Talvez aquele código ~~meio bosta~~
+que parece irremediavelmente idiota
+está lá por algum motivo histórico.
+A primeira "leitura" que eu faço
+é uma tentativa entender isso.
+De me colocar em uma posição em que as mudanças
+estão em um contexto que eu consigo ver como um todo.
 
-So to *really*® read the PR before post any comments
-is something that works very well for me (I guess).
+Então *de fato*® ler o PR antes de comentar
+é algo que **works for me** (eu acho).
+
+![Obama drinking beer approves this!](/images/polite-code-reviewer/obama-thumbs-up.jpg){: .center-image }
 
 ### Emphasize the goods before bashing the bads
 
