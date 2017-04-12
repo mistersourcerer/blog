@@ -111,21 +111,22 @@ Palmas lentas é um dos meus preferidos da vida.
 
 ![Here some slow claps: you sure deserve it!](/images/polite-code-reviewer/slow-claps.gif){: .center-image }
 
-### Reviews are historical registers
+### Reviews ficam registrados
 
-Githubz and similars offer a great deal of tooling
-to make the code review comments/messages look pretty and organized.
-And I find myself more and more referring to "old" Pull Requests.
-Majority of the times to remember the suggestions
-that arrived on solving some specific problem,
-or changing some specific type of code.
+Githubz e similares oferecem um gama de ferramentas
+para organizar e deixar belas
+as mensages e comentários em um code review.
+Vira e mexe eu me vejo olhando "antigos" Pull Requests.
+E na maioria das vezes para lembrar sugestões
+que apareceram para resolver algo específico,
+ou alterar o código de alguma forma (também específica).
 
-Write them as if someone,
-much probably you,
-would go back to it in the future.
-This also should be kept in mind
-while creating the Pull Requests,
-but this is subject to a _whole new blog post_™.
+Trate o code review como se alguém,
+muito provavelmente você mesmo,
+fosse voltar a ele no futuro.
+Também acredito que é legal tratar
+os Pull Requests em si da mesma forma,
+mas isso a assunto para _todo um novo blog post_™.
 
 ### Now, it's that time...
 
