@@ -74,36 +74,40 @@ Então *de fato*® ler o PR antes de comentar
 
 ![Obama drinking beer approves this!](/images/polite-code-reviewer/obama-thumbs-up.jpg){: .center-image }
 
-### Emphasize the goods before bashing the bads
+### Enaltecer o bom antes de bater no ruim
 
-As alien as that concept may appear I really (want to) believe that
-the main concern of the code reviewer is to emphasize the good stuffs.
-This way those can find the atmosphere to they keep poping up.
+Esse conceito pode parecer alienígena
+mas eu quero (MUITO) acreditar que
+a principal ideia de que está pilotando o code review
+é enfatizar as coisas boas que aparecem.
+Nesse ambiente de incentivo
+essas coisas vão se multiplicar.
 
 ![WOOOW! Just blewed me away. Wink!](/images/polite-code-reviewer/wow-wink.gif){: .center-image }
 
-IMHO it's much more effective to avoid bad coding from "happening"
-than just complain when it happens.
-And no worries or false hopes:
+Na minha humilde opinião
+é bem mais efetivo evitar que coisas ruins apareçam
+do que reclamar demais quando elas estão lá.
+Mas, já sabe né? Sem falsas esperanças, amiguinhos:
 
-#### _bad code is going "to happen"_
+#### _código ruim "vai acontecer"_
 
-But my advice is: just relax
-and focus the review on appreciation of the good stuffs.
-Again, since this is a difficult thing for us programmers
-(should I dare to say humans?),
-here are some examples that Time taught me
-and that I tend to mix, match and use on my reviews:
+Se eu tenho um conselho para dar aqui é: relaxa.
+Mantenha o foco do review em apreciar as coisas marotas.
+Sabendo que isso é bem difícil para nós pramistas
+(enfim... para nós seres humanos),
+aqui vai um mix de alguns exemplos que o tempo me ensinou
+e eu uso nos meus comentários em reviews:
 
- - Nice idea in here! I didn't know this was possible.
- - Wow, this usage of _this_ blew me away,
-I'll use it next time I have the same problem to solve.
- - Clever placement here, huh?
- - How have a I lived until now without knowing it!? 😱
+ - Massa isso aqui! Eu não sabia que dava para fazer isso.
+ - Eita, usar _isso aqui_ desse jeito é novo para mim!
+Da hora, vou usar na próxima chance que eu tiver.
+ - Putz, muito inteligente esse trecho, hein?
+ - Como eu vivi até hoje sem saber disso!? 😱
 
-And of course, I hereby grant the permission
-for you to use any kind of memes and animated gifs in this phase.
-Slow claps is one of my all time favorites.
+E claro, toma aqui minha benção
+para usar memes a gifs animados nesse ponto.
+Palmas lentas é um dos meus preferidos da vida.
 
 ![Here some slow claps: you sure deserve it!](/images/polite-code-reviewer/slow-claps.gif){: .center-image }
 
