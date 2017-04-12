@@ -216,26 +216,26 @@ Manja? Aquele tipo de dúvida
 
 ![It was TOTALLY worth it. Even with all the punchs directly at the nose.](/images/polite-code-reviewer/worth-it.jpg){: .center-image }
 
-## Now go there and just enjoy your day
+## Agora vai lá, bicho. Aproveite o dia.
 
-We are all here for the fun and the learnings.
-So hang around with your peers allways you can,
-talk about what you can do better
-to improve your interactions.
+Estamos todos aqui pela diversão e pelo aprendizado.
+Toma uma (breja ou suco, sei lá) com seus colegas sempre que puder,
+Pergunte o que você pode fazer
+para melhorar suas próprias interações.
 
-Let's have some fun on our working lifes.
+Vamos ter alguma diversão enquanto trabalhamos.
 
-xoxo
+Beijocas.
 
-## Thank you very much. REALLY! BIG THANKS
+## Muito obrigado. SÉRIO. MUITO OBRIGADO.
 
-This post would be even worst
-without the carefull early reading, revision
-and polite point fingers from
+Esse post (original) seria ainda pior
+sem a cuidadosa leitura e revisão prévia,
+além do apontar de defeitos muito polido feitos por
 
  - [@hosseintoussi](https://github.com/hosseintoussi)
 
-You are the man, bruv! 💙
+Você é o cara, bicho! 💙
 
 ## References:
 
