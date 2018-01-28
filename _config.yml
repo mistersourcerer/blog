@@ -1,13 +1,13 @@
-title: Ricardo Valeriano [on the interwebz]
-tagline: An Average Boring Dev Blog
+title: Ricardo Valeriano [aka Mr. Sourcerer]
+tagline: Software Development Stuff
 url: http://blog.ricardovaleriano.com
 paginate: 1
-description: "An Average Boring Dev Blog"
+description: Software Development Stuff
 
 author:
   name: Ricardo Valeriano
   url: https://www.youtube.com/c/FunOnCoding
-  twitter: sr_valeriano
+  twitter: mr_sourcerer
 
 gems:
   - jekyll-paginate
