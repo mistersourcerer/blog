@@ -12,4 +12,6 @@ author:
 gems:
   - jekyll-paginate
 
+highlighter: rouge
+
 markdown: kramdown
