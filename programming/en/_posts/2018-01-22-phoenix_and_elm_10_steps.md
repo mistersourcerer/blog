@@ -3,7 +3,7 @@ layout: post-comments
 title:  10 sequential steps to use Elm with a Phoenix app
 date:   2018-01-28 00:01:00
 excerpt: "Note to my future self: configuring Elm with Phoenix."
-description: "A straight forward sequence of steps to make you ready to Elm on
+description: "A straightforward sequence of steps to make you ready to Elm on
 Phoenix."
 image: /images/2018-01-22-phoenix_and_elm_10_steps/screen_with_code.png
 categories:
