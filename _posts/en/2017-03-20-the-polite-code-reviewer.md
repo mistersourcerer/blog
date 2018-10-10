@@ -36,7 +36,7 @@ I started to ask myself (and other people)
 what could I do to make them better.
 Then I discovered,
 much to my surprise,
-that the "difference" in this case is actually a good thing.
+that the "difference" in this case was actually a good thing.
 
 I'll try to break down into steps
 the thought process that make me review code
@@ -44,7 +44,7 @@ the way I do nowadays.
 
 ### Read the code (_and not "just" the diff_ )
 
-At least for me it's very tempting to just glance my eyes over the _diff_.
+At least for me it is very tempting to just glance my eyes over the _diff_.
 And I normally try my best to avoid this urge
 and *really*® read the changes.
 
@@ -63,23 +63,23 @@ Maybe that piece of ~~shit~~ code
 that appears to be irremediably moronic
 is in there due to some strange historical reasons.
 And the first "code reading" that I do
-aim to do just that:
-get me in a position where the code changes
-are wrapped in a context that fits in my mind.
+aims unfold the context
+within the code changes are wrapped.
 
-So to *really*® read the PR before post any comments
+So to *really*® read the PR before posting any comments
 is something that works very well for me (I guess).
 
 ### Emphasize the goods before bashing the bads
 
 As alien as that concept may appear I really (want to) believe that
 the main concern of the code reviewer is to emphasize the good stuffs.
-This way those can find the atmosphere to they keep poping up.
+This way those delicate things can find the atmosphere
+to keep blooming.
 
 ![WOOOW! Just blewed me away. Wink!](/images/polite-code-reviewer/wow-wink.gif){: .center-image }
 
-IMHO it's much more effective to avoid bad coding from "happening"
-than just complain when it happens.
+IMHO it's way more effective to avoid bad coding from "happening"
+than to just complain when it happens.
 And no worries or false hopes:
 
 #### _bad code is going "to happen"_
