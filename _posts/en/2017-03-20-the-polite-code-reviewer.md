@@ -7,7 +7,10 @@ description: "Code Review: an opportunity to educate and learn at the same rate.
 image: /images/polite-code-reviewer/buddha-try-to-not-be-an-asshat.jpg
 categories:
   - en
+  - softskills
+tags:
   - working-with-others
+  - softskills
 ---
 
 ### TL;DR
@@ -41,6 +44,10 @@ that the "difference" in this case was actually a good thing.
 I'll try to break down into steps
 the thought process that make me review code
 the way I do nowadays.
+
+### Similar posts
+
+{% include related_links.html %}
 
 ### Read the code (_and not "just" the diff_ )
 

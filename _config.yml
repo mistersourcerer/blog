@@ -1,16 +1,18 @@
-title: Ricardo Valeriano [aka Mr. Sourcerer]
-tagline: Software Development Stuff
+title: Software Dev Shenanigans
+tagline: A blog by Ricardo Valeriano [aka Mr. Sourcerer]
 url: http://blog.ricardovaleriano.com
 paginate: 1
-description: Software Development Stuff
+description: Software Development Shenanigans
 
 author:
   name: Ricardo Valeriano
-  url: https://www.youtube.com/c/FunOnCoding
-  twitter: mr_sourcerer
+  url: https://github.com/mistersourcerer
+  twitter: https://twitter.com/mr_sourcerer
 
-gems:
+plugins:
   - jekyll-paginate
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
 
 highlighter: rouge
 

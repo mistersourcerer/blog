@@ -7,12 +7,14 @@ description: Not necessarily new things, but nice ones (IMHO).
 image: /images/weekly/2017-09-18.jpeg
 categories:
   - en
+  - radar
+tags:
   - ricardos-radar
   - programming
   - life
   - reading
   - listening
-  - weekly
+  - open-source
 ---
 
 ## TL;DR for this week links
@@ -38,8 +40,6 @@ to explain my strange thoughts.
 
 ![Porto - São Nicolau - Portugal (13/09/2017)](/images/weekly/2017-09-18.jpeg){: .center-image width="450"}
 A beautiful afternoon at Porto - Portugal.<br />
-For more like this,
-follow me on instagram [@valeriudo](http://instagram.com/valeriudo){: target="blank"}.
 
 ---
 

@@ -7,9 +7,12 @@ description: Not necessarily new things, but nice ones (IMHO).
 image: /images/labeouf.png
 categories:
   - en
-  - ricardos-radar
+  - radar
+tags:
   - programming
-  - weekly
+  - elm
+  - bill-murray
+  - commedy
 ---
 
 ## TL;DR

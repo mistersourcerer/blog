@@ -8,9 +8,12 @@ Phoenix."
 image: /images/2018-01-22-phoenix_and_elm_10_steps/screen_with_code.png
 categories:
   - en
+  - steps
+tags:
   - elm
   - phoenix
   - programming
+  - webdev
 ---
 
 ![This is a Phoenix, with and Elm inside of it!]({{page.image}}){:class="center-image" }

@@ -9,6 +9,8 @@ mesma proporção."
 image: /images/polite-code-reviewer/buddha-try-to-not-be-an-asshat.jpg
 categories:
   - pt-br
+  - softskills
+tags:
   - working-with-others
 ---
 
