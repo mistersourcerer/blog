@@ -1,10 +1,19 @@
 <footer class="site-footer">
   <span class="site-footer-owner">
-    This humble software development blog shenanigans<br />
-    is brought to you by
-    <a href="{{ site.author.url }}" target="_blank">{{ site.author.name }}</a>
-    (a.k.a. <a href="{{ site.author.youtube }}" target="_blank">@mistersourcerer-ptbr</a>)
-    .<br />
-    A man who knows nothing about aesthetically pleasing websites.
+    {% if page.path contains "pt-br" %}
+      Esse humilde bloguinho de miscelânea desenvolvedeira de software
+      é trazido até você por<br />
+      <a href="{{ site.author.url }}" target="_blank">{{ site.author.name }}</a>
+      (a.k.a. <a href="{{ site.author.youtube }}" target="_blank">@mistersourcerer-ptbr</a>).<br />
+      Alguém que não sabe nada sobre websites estéticamente aprazíveis.
+    {% else %}
+      This humble software development blog shenanigans<br />
+      is brought to you by
+      <a href="{{ site.author.url }}" target="_blank">{{ site.author.name }}</a>
+      (a.k.a. <a href="{{ site.author.youtube }}" target="_blank">@mistersourcerer-ptbr</a>)
+      .<br />
+      A man who knows nothing about aesthetically pleasing websites.
+    {% endif %}
   </span>
 </footer>
+
