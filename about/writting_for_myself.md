@@ -6,7 +6,7 @@ permalink: writting-to-myself
 # This is for my future self
 
 Is pretty safe to assume that the majority of the words in this blog
-was mainly targeted to a very specific audience: my future self.
+were mainly targeted to a very specific audience: my future self.
 
 Those are small brain dumps that I can visit in the future
 and get myself out of LIFE OR DEATH SITUATIONS.
