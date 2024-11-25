@@ -27,9 +27,16 @@
 .page-header-custom {
   color: #fff;
   text-align: center;
-  background-color: #17518a;
+  background-color: #445760;
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-  color: #17518a;
+  color: #38454c;
 }
+
+.site-footer-owner {
+  color: #38454c;
+  font-weight: normal;
+}
+
+a { color: #38454c; text-decoration: none; }
